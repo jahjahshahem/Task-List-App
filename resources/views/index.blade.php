@@ -14,5 +14,4 @@
     @empty
      <div>No tasks!</div>
     @endforelse
-
 @endsection
